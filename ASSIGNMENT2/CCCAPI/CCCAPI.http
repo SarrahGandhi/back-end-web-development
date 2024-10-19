@@ -1,0 +1,6 @@
+@CCCAPI_HostAddress = http://localhost:5239
+
+GET {{CCCAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
